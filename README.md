@@ -137,4 +137,4 @@ cf push
   ```
 
   View your app at the URL listed in the output of the push command, for example, *myUrl.mybluemix.net*.
-IF THIS LINE EXISTS, SUCCESS!!
+THE EXISTENCE OF THIS LINE DENOTES A SUCCESSFUL COMMIT!

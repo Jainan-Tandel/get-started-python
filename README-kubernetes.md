@@ -95,3 +95,5 @@ kubectl get pods -l app=get-started-python
 kubectl delete deployment,service -l app=get-started-python
 kubectl delete secret cloudant
 ```
+
+ONCE AGAIN, THE EXISTENCE OF THIS LINE DENOTES A SUCCESSFUL COMMIT!
